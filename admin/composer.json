@@ -1,0 +1,17 @@
+{
+    "name": "YashSarda/BasicProject",
+    "description": "This is a basic Project",
+    "type": "library",
+    "license": "IIC",
+    "authors": [
+        {
+            "name": "YashPayback",
+            "email": "yash.sarda@samarth.ac.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "admin\\": "src"
+        }
+    }
+}
