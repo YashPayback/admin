@@ -2,7 +2,7 @@
     "name": "yash-sarda/basic-project",
     "description": "This is a basic Project",
     "type": "library",
-    "license": "IIC",
+    "license": "MIT",
     "authors": [
         {
             "name": "Yash Sarda",
@@ -11,7 +11,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "admin\\": "src"
+            "admin\\": "src/"
         }
     }
+    "require":{}
 }
