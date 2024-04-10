@@ -1,11 +1,11 @@
 {
-    "name": "YashSarda/BasicProject",
+    "name": "yash-sarda/basic-project",
     "description": "This is a basic Project",
     "type": "library",
     "license": "IIC",
     "authors": [
         {
-            "name": "YashPayback",
+            "name": "Yash Sarda",
             "email": "yash.sarda@samarth.ac.in"
         }
     ],
